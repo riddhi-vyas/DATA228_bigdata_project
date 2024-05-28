@@ -1,4 +1,4 @@
-# DATA228_bigdata_project
+# DATA228_bigdata_project - Real-time Crypto-Arbitrage Analysis
 Real-Time Monitoring and Analytics of Arbitrage Opportunities in Cryptocurrency Markets
 
 **Abstract**
